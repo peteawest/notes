@@ -80,3 +80,18 @@ Airline Trades
 AAL - 0.10 div
 LUV - 0.07 - 0.10 div
 DAL - 0.09 - 0.12
+
+
+Div stocks
+GE 3-4% <-- like this one
+BBOX 10-15% <-- ok
+KCAP - 8-10% <-- like this one
+NCMI - 8-10% <-- like this one
+NYMT - 7-10% <-- ok
+DSE - 6-10% <-- not big, ok
+TCAP - 10% <-- like
+FTR <- 10% like
+GHL <- 12% like
+
+
+
